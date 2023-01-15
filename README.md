@@ -1,9 +1,7 @@
 # reactnativetabsnavigation
-RN button-tabs navigation 
-# reactnativetabsnavigation
-
+RN bottom-tabs navigation 
 # Screenshoot
-The below images are some layout of reactnativetabsnavigation.
+The below images are some layout of ReactnativeTabsNavigation.
 
 ## [x] Home Tabs
 <img src="https://github.com/bedsongultom/reactnativetabsnavigation/blob/master/src/assets/images/Screenshot_20230115-202544_ReactnativeTabsNavigation.jpg" width="400" height="600">
@@ -23,4 +21,4 @@ The below images are some layout of reactnativetabsnavigation.
 <img src="https://github.com/bedsongultom/reactnativetabsnavigation/blob/master/src/assets/images/Screenshot_20230115-202602_ReactnativeTabsNavigation.jpg" width="400" height="600">
 
 # Created By
-reactnativetabsnavigation Created By Bedson Gultom.
+ReactnativeTabsNavigation Created By Bedson Gultom.
