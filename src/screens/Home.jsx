@@ -1,6 +1,5 @@
 import React, { Component, Fragment } from "react";
-import { View, StyleSheet, TouchableOpacity, Text } from "react-native";
-
+import { View, StyleSheet, Text } from "react-native";
 
 export default class Home extends Component{ 
     componentDidMount=()=>{

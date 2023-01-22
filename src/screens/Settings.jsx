@@ -5,7 +5,6 @@ export default class Settings extends Component {
     componentDidMount=()=>{
         console.log('Settings is Mounting');
     }
-
     render(){
         return(
             <Fragment>

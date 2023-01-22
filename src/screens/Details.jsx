@@ -5,7 +5,6 @@ export default class Details extends Component {
     componentDidMount=()=>{
         console.log('Details is Mounting');
     }
-
     render() {
         return(
             <Fragment>

@@ -31,16 +31,16 @@ android_library(
         ":build_config",
         ":res",
     ],
-)com.reactnativetabsnavigation
+)com.reactnativesplashscreen
 
 android_build_config(
     name = "build_config",
-    package = "com.reactnativetabsnavigation",
+    package = "com.reactnativesplashscreen",
 )
 
 android_resource(
     name = "res",
-    package = "com.reactnativetabsnavigation",
+    package = "com.reactnativesplashscreen",
     res = "src/main/res",
 )
 
